@@ -1,1 +1,1 @@
-# Dark-Pattern-Highlighter-and-Detector
+This programme, created by the dapde-project's informatics team, aims to assist users in navigating the internet similarly to how they would with an ad blocker. The highlighter, however, is different from ad blockers in one very important way: instead of blocking specific dark patterns on webpages, it highlights them to make users aware of the factors that are influencing them. The tool also provides information on the kind of pattern.
